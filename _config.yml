@@ -2,3 +2,9 @@ name: Jonathan Crellin, Academic
 markdown: kramdown
 url: https://joncrel.github.io
 baseurl: /
+defaults:
+  scope:
+   path: "img"
+ values:
+  image: true
+   
